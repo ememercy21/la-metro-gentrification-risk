@@ -1,0 +1,9 @@
+scope,model,cv_rmse,cv_rmse_std,cv_mae,cv_r2
+A/E,OLS,0.3760,0.0139,0.2864,0.4534
+A/E,Ridge,0.3760,0.0139,0.2864,0.4534
+A/E,Random Forest,0.2007,0.0055,0.1444,0.8442
+A/E,XGBoost,0.1726,0.0045,0.1211,0.8846
+All lines,OLS,0.4534,0.0875,0.3206,0.3425
+All lines,Ridge,0.4534,0.0875,0.3206,0.3425
+All lines,Random Forest,0.2530,0.1270,0.1418,0.7898
+All lines,XGBoost,0.2684,0.1307,0.1252,0.7568

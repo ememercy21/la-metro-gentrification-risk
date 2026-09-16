@@ -1,0 +1,8 @@
+metric,value
+corridor_listings,1947
+mean_listing_level_uplift,-0.0272
+median_listing_level_uplift,-0.0023
+max_listing_level_uplift,0.0276
+share_positive,0.215
+difference_between_scenario_medians,-0.0132
+forecast_model_implemented,Random Forest

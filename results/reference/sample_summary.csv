@@ -1,0 +1,13 @@
+metric,value
+clean_listings_before_distance_filter,21214
+unique_zip_codes,292
+first_file_date,2025-05-19
+last_file_date,2026-05-18
+removed_beyond_5_miles,5325
+retained_within_5_miles,15889
+acs_matched,15851
+band_0_to_0_5_miles,3357
+band_0_5_to_1_mile,4031
+band_1_to_2_miles,3963
+band_2_to_5_miles,4538
+A_E_training_rows,4496

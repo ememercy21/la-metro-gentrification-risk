@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using these metadata."
+title: "Mind the Gap: How Proximity to Metro Stops Relates to Gentrification of Local Neighborhoods"
+type: software
+version: 1.0.0
+date-released: 2026-06-06
+authors:
+  - given-names: Jon
+    family-names: Darius
+  - given-names: Mercy
+    family-names: Eme
+  - given-names: Judith
+    family-names: Mendoz
+  - given-names: Layla
+    family-names: Rainosek
+  - given-names: Daniel
+    family-names: Rocha
+keywords:
+  - gentrification
+  - transit-oriented development
+  - Los Angeles Metro
+  - machine learning
+  - social science
+abstract: >-
+  A reproducible analysis of the association between LA Metro proximity and a
+  Composite Gentrification Risk Score, including a scenario analysis for the
+  D Line extension planned around the Los Angeles 2028 Olympics.
