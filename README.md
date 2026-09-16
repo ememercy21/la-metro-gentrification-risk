@@ -6,7 +6,7 @@ This project examines how proximity to Los Angeles Metro stations relates to a c
 
 > **Portfolio note:** This is an observational class project, not a causal impact study or a policy forecast. The repository preserves the submitted analysis while documenting known reproducibility and interpretation caveats.
 
-**Project deliverables:** [scholarly article](reports/scholarly_article.pdf) · [executive summary](reports/executive_summary.pdf) · [presentation](reports/presentation.pptx) · [analysis notebook](notebooks/transit_gentrification_analysis.ipynb)
+**Project deliverables:** [scholarly article](reports/scholarly_article.pdf) · [executive summary](reports/executive_summary.pdf) · [presentation](reports/LA Metro Gentrification Risk Presentation.pdf) · [analysis notebook](notebooks/transit_gentrification_analysis.ipynb)
 
 ## Research questions
 
